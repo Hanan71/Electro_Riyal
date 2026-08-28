@@ -94,9 +94,15 @@ npm start
 
 ## 📸 System Screenshots
 
-| Main Interface | Add Transaction | Blockchain & Mined Blocks |
+## 📸 System Screenshots
+
+| Landing Page | Send Transaction Modal | Blockchain Ledger & Mined Blocks |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/030739f6-c3c1-402a-b2f6-54a090d6e63c" width="300" /> | <img src="https://github.com/user-attachments/assets/df64fbca-1fcf-43c9-a5af-5baab07de398" width="300" /> | <img src="https://github.com/user-attachments/assets/c9bd4ec1-183c-4473-adc8-155a3e6603db" width="300" /> |
+<img width="833" height="500" alt="Screenshot 2026-08-28 at 1 13 08 PM" src="https://github.com/user-attachments/assets/6f118148-b759-4461-810d-a9b226ffd2cd" />
+<img width="768" height="479" alt="Screenshot 2026-08-28 at 1 13 31 PM" src="https://github.com/user-attachments/assets/668b7b4a-eaa1-4b55-8179-9cb11c07cb37" />
+<img width="782" height="493" alt="Screenshot 2026-08-28 at 1 13 55 PM" src="https://github.com/user-attachments/assets/0dbcf2e3-a6cf-4a2e-b510-34c8302c1462" />
+
+
 ---
 
 ## 📄 Project Documentation (PDF)
