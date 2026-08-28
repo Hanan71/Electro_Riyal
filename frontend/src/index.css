@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+ 
+  /* 🌟 التعديل هنا 🌟 */
+  background-color: #e5e5d5; /* رمادي فاتح جداً وعصري */
+  color:#333; /* يُفضل تغيير لون النص إلى داكن ليظهر بوضوح */
+
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  /* الخط الجديد: Fira Code للأكواد  */
+  font-family: 'Fira Code', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
