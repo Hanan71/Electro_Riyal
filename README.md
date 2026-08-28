@@ -10,6 +10,8 @@ A full-stack, decentralized blockchain simulation platform built to demonstrate 
 * **Project Type:** Cryptography & Distributed Systems Academic Project
 * **Academic Year:** 2025–2026
 
+**👩‍💻 My Role:** Team Leader — responsible for leading the team, building the cryptographic blockchain simulation, and designing the full web interface.
+
 ---
 
 ## 🌟 Key Cryptographic & System Features
