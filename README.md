@@ -103,6 +103,6 @@ npm start
 ## 📄 Project Documentation (PDF)
 You can view and download the complete System Design and Cryptographic Specification document directly from this repository:
 
-[![View PDF](https://img.shields.io/badge/View_PDF-Document-007acc?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2ea44f)](https://github.com/Hanan71/Electro_Riyal/blob/main/Electro%20Riyal%20%20Doc.pdf) 👈 Click to view project documentation
+[![View PDF](https://img.shields.io/badge/View_PDF-Document-C0C0C0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1a1a&color=D1D5DB)](https://github.com/Hanan71/Electro_Riyal/blob/main/Electro%20Riyal%20%20Doc.pdf) 👈 Click to view project documentation
 
 [![Canva Presentation](https://img.shields.io/badge/Canva_Presentation-D4AF37?style=for-the-badge&logo=canva&logoColor=000000&labelColor=000000)](https://canva.link/507hrsw3lxw2why) 👈 Click to view the presentation on Canva
