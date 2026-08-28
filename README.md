@@ -62,14 +62,15 @@ Each block in the ledger contains:
 ```
 ---
 
-🚀 Getting Started
+# 🚀 Getting Started
 Prerequisites
 Python 3.9+
 
 Node.js & npm
 
 1. Backend Setup
-# Clone the repository
+   
+Clone the repository
 git clone [https://github.com/Hanan71/Electro_Riyal.git](https://github.com/Hanan71/Electro_Riyal.git)
 cd Electro_Riyal/backend
 
