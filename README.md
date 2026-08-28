@@ -94,14 +94,9 @@ npm start
 
 ## 📸 System Screenshots
 
-## 📸 System Screenshots
-
 | Landing Page | Send Transaction Modal | Blockchain Ledger & Mined Blocks |
 | :---: | :---: | :---: |
-<img width="833" height="500" alt="Screenshot 2026-08-28 at 1 13 08 PM" src="https://github.com/user-attachments/assets/6f118148-b759-4461-810d-a9b226ffd2cd" />
-<img width="768" height="479" alt="Screenshot 2026-08-28 at 1 13 31 PM" src="https://github.com/user-attachments/assets/668b7b4a-eaa1-4b55-8179-9cb11c07cb37" />
-<img width="782" height="493" alt="Screenshot 2026-08-28 at 1 13 55 PM" src="https://github.com/user-attachments/assets/0dbcf2e3-a6cf-4a2e-b510-34c8302c1462" />
-
+| <img src="https://github.com/user-attachments/assets/6f118148-b759-4461-810d-a9b226ffd2cd" width="300" /> | <img src="https://github.com/user-attachments/assets/668b7b4a-eaa1-4b55-8179-9cb11c07cb37" width="300" /> | <img src="https://github.com/user-attachments/assets/0dbcf2e3-a6cf-4a2e-b510-34c8302c1462" width="300" /> |
 
 ---
 
