@@ -1,4 +1,5 @@
-# Electro Riyal: Educational Blockchain Simulation System ⛓️⚡
+# Electro Riyal: Educational Blockchain Simulation System ⛓️⚡ <img width="100" height="100" alt="Gemini_Generated_Image_n7xigbn7xigbn7xi-removebg-preview" src="https://github.com/user-attachments/assets/99e297f2-261e-4789-9efa-dd6d613dbbc7" />
+
 
 A full-stack, decentralized blockchain simulation platform built to demonstrate the core mathematical and cryptographic foundations of distributed ledger technology (DLT). 
 
